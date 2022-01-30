@@ -48,12 +48,15 @@
  }
  .x1{
      background-color: black;
+     top: 50px;
 
  }
  .x2{
      font-size: 70%;
      padding:10px;
      background-color: black;
+     margin-top:50px;
+    line-height: 50px;
  }
  .fa {
   
@@ -77,6 +80,7 @@
     color: white;
     margin-left: 1000px;
     margin-right: 20px;
+    
   } 
   .fa-facebook {
     top: 50%;
@@ -93,6 +97,7 @@
     color: white;
     padding: 10px;
     border-radius: 5px;
+    
   }
   #abha{
       top: 50000px;
@@ -101,3 +106,4 @@
  .w{
    color: rgb(221, 225, 233);
  }
+ 

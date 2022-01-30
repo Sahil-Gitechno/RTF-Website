@@ -642,3 +642,9 @@ position: relative;
   opacity: 1;
   right: 0;
 }
+section{
+  background-color: #555;;
+}
+.card{
+  background-color:white;
+}
